@@ -10,17 +10,20 @@
 </head>
 
 <body>
-    <main>
-        <h1>
-            Welcome To <span>MyBank</span>!!!
+    <main class="text-center bg-yellow-100 p-24 mt-12">
+        <h1 class="text-5xl font-semibold text-violet-700 mb-8">
+            Welcome To <span class="font-bold">MyBank</span>!!!
         </h1>
+        <form class="bg-violet-300 flex flex-col p-16">
+            <p class="text-2xl font-semibold text-blue-600">Please LogIn</p>
+            <input class="w-2/4 m-auto mt-4 rounded h-8 outline-blue-500 p-2" type="email" required
+                placeholder="Your Email">
+            <input class="w-2/4 m-auto mt-4 rounded h-8 outline-blue-500 p-2" type="password" required
+                placeholder="Password">
+            <button
+                class="bg-purple-600 text-white font-semibold text-xl mt-4 w-fit m-auto rounded p-2 px-6 hover:bg-purple-700">Submit</button>
+        </form>
     </main>
-    <form>
-        <p>Please LogIn</p>
-        <input type="email" required>
-        <input type="password" required>
-        <button>Submit</button>
-    </form>
 </body>
 
 </html>
