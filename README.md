@@ -1,7 +1,8 @@
 # demo-bank-website
 
 
-## Use this id & password to see the full features of this site 'shamratpg@gmail.com': 'beautifulcow876'
+## Use this id & password to experience all features of this app 
+## id: shamratpg@gmail.com  password: beautifulcow876
 
 ## Table of contents
 
