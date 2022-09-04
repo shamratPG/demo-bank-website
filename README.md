@@ -1,7 +1,7 @@
 # demo-bank-website
-This is a practice project for a demo bank.
 
-##Use this id & password to see the full features of this site 'shamratpg@gmail.com': 'beautifulcow876'
+
+## Use this id & password to see the full features of this site 'shamratpg@gmail.com': 'beautifulcow876'
 
 ## Table of contents
 
@@ -15,17 +15,16 @@ This is a practice project for a demo bank.
 
 ## Overview
 
-First Assignment (programming hero). This is a demo landing page based on  a charity website
-
+This is a practice project for a demo bank.
 
 ### Screenshot
 
-![](screenshot.png)
+![](Demo-Bank.png)
+![](Statement.png)
 
 
 ### Links
 
-- [Code URL](https://shamratpg.github.io/Relief-Website/)
 - [Live Site URL](https://shamratpg.github.io/demo-bank-website/)
 
 
